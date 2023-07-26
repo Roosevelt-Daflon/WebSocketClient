@@ -1,0 +1,17 @@
+C:\Users\roose\RiderProjects\WebSocketClient\obj\Debug\net7.0\WebSocketClient.csproj.AssemblyReference.cache
+C:\Users\roose\RiderProjects\WebSocketClient\obj\Debug\net7.0\WebSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roose\RiderProjects\WebSocketClient\obj\Debug\net7.0\WebSocketClient.AssemblyInfoInputs.cache
+C:\Users\roose\RiderProjects\WebSocketClient\obj\Debug\net7.0\WebSocketClient.AssemblyInfo.cs
+C:\Users\roose\RiderProjects\WebSocketClient\obj\Debug\net7.0\WebSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\bin\Debug\net7.0\WebSocketClient.deps.json
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\bin\Debug\net7.0\WebSocketClient.dll
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\bin\Debug\net7.0\WebSocketClient.pdb
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\WebSocketClient.csproj.AssemblyReference.cache
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\WebSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\WebSocketClient.AssemblyInfoInputs.cache
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\WebSocketClient.AssemblyInfo.cs
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\WebSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\WebSocketClient.dll
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\refint\WebSocketClient.dll
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\WebSocketClient.pdb
+C:\Users\roose\RiderProjects\Solution1\WebSocketClient\obj\Debug\net7.0\ref\WebSocketClient.dll
